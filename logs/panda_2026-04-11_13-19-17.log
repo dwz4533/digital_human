@@ -1,0 +1,18 @@
+2026-04-11 13:19:17 | INFO     | appLogger | set_logger  : 18  | --------------------------------------------------------------------------------
+2026-04-11 13:19:17 | INFO     | appLogger | set_logger  : 19  | 开始时间: 2026-04-11 13:19:17
+2026-04-11 13:19:17 | INFO     | appLogger | set_logger  : 20  | --------------------------------------------------------------------------------
+2026-04-11 13:19:48 | INFO     | appLogger | asr_worker  : 18  | [ASR] 获取问题所需时间：14
+2026-04-11 13:19:48 | INFO     | appLogger | asr_worker  : 23  | [ASR] 用户问题：我介绍一下皮影戏 (sid=1)
+2026-04-11 13:19:48 | INFO     | appLogger | llm_worker  : 16  | [LLM] 开始生成 sid=1
+2026-04-11 13:20:01 | INFO     | appLogger | llm_service : 63  | sentence: 皮影戏是黄河流域的传统戏剧形式，起源于古代，通过雕刻在皮质或绢布上的影像，借助灯光投影在幕布上表演。
+2026-04-11 13:20:01 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 皮影戏是黄河流域的传统戏剧形式，起源于古代，通过雕刻在皮质或绢布上的影像，借助灯光投影在幕布上表演。 (sid=1)
+2026-04-11 13:20:02 | INFO     | appLogger | llm_service : 63  | sentence: 桐柏皮影戏作为国家级非遗项目，以其精湛的技艺和丰富的故事内容闻名，常演绎历史传奇与民间传说。
+2026-04-11 13:20:02 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 桐柏皮影戏作为国家级非遗项目，以其精湛的技艺和丰富的故事内容闻名，常演绎历史传奇与民间传说。 (sid=1)
+2026-04-11 13:20:02 | INFO     | appLogger | llm_service : 63  | sentence: 它不仅承载着文化记忆，也体现了黄河流域人民的智慧与审美。
+2026-04-11 13:20:02 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 它不仅承载着文化记忆，也体现了黄河流域人民的智慧与审美。 (sid=1)
+2026-04-11 13:20:03 | INFO     | appLogger | llm_service : 63  | sentence: 保护皮影戏，就是守护一段珍贵的文化遗产。
+2026-04-11 13:20:03 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 保护皮影戏，就是守护一段珍贵的文化遗产。 (sid=1)
+2026-04-11 13:20:03 | INFO     | appLogger | llm_worker  : 43  | [LLM] 生成时间为：13.546101
+2026-04-11 13:22:20 | INFO     | appLogger | app_controller : 77  | 收到退出信号：2
+2026-04-11 13:22:20 | INFO     | appLogger | app_controller : 72  | 程序终止，保存时间戳...
+2026-04-11 13:22:20 | INFO     | appLogger | app_controller : 67  | 执行 finally 块，保存时间戳...

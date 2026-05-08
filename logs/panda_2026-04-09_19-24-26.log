@@ -1,0 +1,29 @@
+2026-04-09 19:24:26 | INFO     | appLogger | set_logger  : 18  | --------------------------------------------------------------------------------
+2026-04-09 19:24:26 | INFO     | appLogger | set_logger  : 19  | 开始时间: 2026-04-09 19:24:26
+2026-04-09 19:24:26 | INFO     | appLogger | set_logger  : 20  | --------------------------------------------------------------------------------
+2026-04-09 19:25:40 | INFO     | appLogger | asr_worker  : 18  | [ASR] 获取问题所需时间：27
+2026-04-09 19:25:40 | INFO     | appLogger | asr_worker  : 23  | [ASR] 用户问题：给我介绍一下皮影戏 (sid=1)
+2026-04-09 19:25:40 | INFO     | appLogger | llm_worker  : 16  | [LLM] 开始生成 sid=1
+2026-04-09 19:25:48 | INFO     | appLogger | llm_service : 63  | sentence: 皮影戏是黄河流域的传统戏剧形式，属于国家级非物质文化遗产，代表性项目为桐柏皮影戏。
+2026-04-09 19:25:48 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 皮影戏是黄河流域的传统戏剧形式，属于国家级非物质文化遗产，代表性项目为桐柏皮影戏。 (sid=1)
+2026-04-09 19:25:48 | INFO     | appLogger | tts_worker  : 89  | [TTS] 切分为 1 个短句: ['皮影戏是黄河流域的传统戏剧形式，属于国家级非物质文化遗产，代表性项目为桐柏皮影戏。']
+2026-04-09 19:25:48 | INFO     | appLogger | llm_service : 63  | sentence: 它以皮影为媒介，通过灯光投影在幕布上演绎故事，生动展现地方文化特色。
+2026-04-09 19:25:48 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 它以皮影为媒介，通过灯光投影在幕布上演绎故事，生动展现地方文化特色。 (sid=1)
+2026-04-09 19:25:49 | INFO     | appLogger | llm_service : 63  | sentence: 桐柏皮影戏流传于河南省桐柏县，技艺精湛，曾被列为第三批扩展项目，体现了黄河文化传承的深厚底蕴。
+2026-04-09 19:25:49 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 桐柏皮影戏流传于河南省桐柏县，技艺精湛，曾被列为第三批扩展项目，体现了黄河文化传承的深厚底蕴。 (sid=1)
+2026-04-09 19:25:49 | INFO     | appLogger | llm_worker  : 43  | [LLM] 生成时间为：8.192798
+2026-04-09 19:26:16 | INFO     | appLogger | tts_worker  : 89  | [TTS] 切分为 1 个短句: ['它以皮影为媒介，通过灯光投影在幕布上演绎故事，生动展现地方文化特色。']
+2026-04-09 19:26:42 | INFO     | appLogger | tts_worker  : 89  | [TTS] 切分为 1 个短句: ['桐柏皮影戏流传于河南省桐柏县，技艺精湛，曾被列为第三批扩展项目，体现了黄河文化传承的深厚底蕴。']
+2026-04-09 19:28:39 | INFO     | appLogger | asr_worker  : 18  | [ASR] 获取问题所需时间：178
+2026-04-09 19:28:39 | INFO     | appLogger | asr_worker  : 23  | [ASR] 用户问题：介绍一下它起源于什么时候 (sid=2)
+2026-04-09 19:28:39 | INFO     | appLogger | llm_worker  : 16  | [LLM] 开始生成 sid=2
+2026-04-09 19:28:45 | INFO     | appLogger | llm_service : 63  | sentence: 皮影戏起源于汉代，是黄河文明的活化石。
+2026-04-09 19:28:45 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 皮影戏起源于汉代，是黄河文明的活化石。 (sid=2)
+2026-04-09 19:28:45 | INFO     | appLogger | tts_worker  : 89  | [TTS] 切分为 1 个短句: ['皮影戏起源于汉代，是黄河文明的活化石。']
+2026-04-09 19:28:46 | INFO     | appLogger | llm_service : 63  | sentence: 黄河文化绵延千年，皮影戏作为黄河文明的结晶，以竹制或皮制影人投射光影，讲述英雄史诗与人间百态，承载着黄河儿女的智慧与记忆。
+2026-04-09 19:28:46 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 黄河文化绵延千年，皮影戏作为黄河文明的结晶，以竹制或皮制影人投射光影，讲述英雄史诗与人间百态，承载着黄河儿女的智慧与记忆。 (sid=2)
+2026-04-09 19:28:46 | INFO     | appLogger | llm_worker  : 43  | [LLM] 生成时间为：7.271029
+2026-04-09 19:29:00 | INFO     | appLogger | tts_worker  : 89  | [TTS] 切分为 3 个短句: ['黄河文化绵延千年，皮影戏作为黄河文明的结晶，', '讲述英雄史诗与人间百态，', '承载着黄河儿女的智慧与记忆。']
+2026-04-09 19:30:37 | INFO     | appLogger | app_controller : 77  | 收到退出信号：2
+2026-04-09 19:30:37 | INFO     | appLogger | app_controller : 72  | 程序终止，保存时间戳...
+2026-04-09 19:30:37 | INFO     | appLogger | app_controller : 67  | 执行 finally 块，保存时间戳...

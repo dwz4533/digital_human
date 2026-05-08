@@ -1,0 +1,81 @@
+2026-04-11 14:18:37 | INFO     | appLogger | set_logger  : 18  | --------------------------------------------------------------------------------
+2026-04-11 14:18:37 | INFO     | appLogger | set_logger  : 19  | 开始时间: 2026-04-11 14:18:37
+2026-04-11 14:18:37 | INFO     | appLogger | set_logger  : 20  | --------------------------------------------------------------------------------
+2026-04-11 14:20:11 | INFO     | appLogger | asr_worker  : 18  | [ASR] 获取问题所需时间：76
+2026-04-11 14:20:11 | INFO     | appLogger | asr_worker  : 23  | [ASR] 用户问题：我介绍一下皮影戏 (sid=1)
+2026-04-11 14:20:11 | INFO     | appLogger | llm_worker  : 16  | [LLM] 开始生成 sid=1
+2026-04-11 14:20:24 | INFO     | appLogger | llm_service : 63  | sentence: 皮影戏是黄河流域的传统戏剧形式，国家级非遗项目，源自桐柏县人民文化馆。
+2026-04-11 14:20:24 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 皮影戏是黄河流域的传统戏剧形式，国家级非遗项目，源自桐柏县人民文化馆。 (sid=1)
+2026-04-11 14:20:25 | INFO     | appLogger | llm_service : 63  | sentence: 它以皮影为载体，通过灯光投影展现故事，融合唱念做打的表演技艺，生动演绎历史传说与民间故事。
+2026-04-11 14:20:25 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 它以皮影为载体，通过灯光投影展现故事，融合唱念做打的表演技艺，生动演绎历史传说与民间故事。 (sid=1)
+2026-04-11 14:20:26 | INFO     | appLogger | llm_service : 63  | sentence: 作为黄河文化的重要组成部分，皮影戏承载着地域民俗记忆，其传承既需技艺传承，也需文化守护。
+2026-04-11 14:20:26 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 作为黄河文化的重要组成部分，皮影戏承载着地域民俗记忆，其传承既需技艺传承，也需文化守护。 (sid=1)
+2026-04-11 14:20:26 | INFO     | appLogger | llm_worker  : 43  | [LLM] 生成时间为：14.211009
+2026-04-11 14:21:58 | INFO     | appLogger | asr_worker  : 18  | [ASR] 获取问题所需时间：107
+2026-04-11 14:21:58 | INFO     | appLogger | asr_worker  : 23  | [ASR] 用户问题：介绍一下它起源于什么时候 (sid=2)
+2026-04-11 14:21:58 | INFO     | appLogger | llm_worker  : 16  | [LLM] 开始生成 sid=2
+2026-04-11 14:22:06 | INFO     | appLogger | llm_service : 63  | sentence: 皮影戏起源于汉代，是黄河文明的活化石。
+2026-04-11 14:22:06 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 皮影戏起源于汉代，是黄河文明的活化石。 (sid=2)
+2026-04-11 14:22:07 | INFO     | appLogger | llm_service : 63  | sentence: 它以竹制或皮制影人投射在幕布上，通过灯光投影讲述英雄史诗与人间百态，承载着黄河儿女的智慧与记忆。
+2026-04-11 14:22:07 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 它以竹制或皮制影人投射在幕布上，通过灯光投影讲述英雄史诗与人间百态，承载着黄河儿女的智慧与记忆。 (sid=2)
+2026-04-11 14:22:07 | INFO     | appLogger | llm_worker  : 43  | [LLM] 生成时间为：8.268500
+2026-04-11 14:23:00 | INFO     | appLogger | asr_worker  : 18  | [ASR] 获取问题所需时间：61
+2026-04-11 14:23:00 | INFO     | appLogger | asr_worker  : 23  | [ASR] 用户问题：介绍一下它起源于什么时期 (sid=3)
+2026-04-11 14:23:00 | INFO     | appLogger | llm_worker  : 16  | [LLM] 开始生成 sid=3
+2026-04-11 14:23:08 | INFO     | appLogger | llm_service : 63  | sentence: 皮影戏起源于汉代，是黄河文明的活化石。
+2026-04-11 14:23:08 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 皮影戏起源于汉代，是黄河文明的活化石。 (sid=3)
+2026-04-11 14:23:09 | INFO     | appLogger | llm_service : 63  | sentence: 它以竹制或皮制影人投射在幕布上，通过灯光投影讲述英雄史诗与人间百态，承载着黄河儿女的智慧与记忆。
+2026-04-11 14:23:09 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 它以竹制或皮制影人投射在幕布上，通过灯光投影讲述英雄史诗与人间百态，承载着黄河儿女的智慧与记忆。 (sid=3)
+2026-04-11 14:23:09 | INFO     | appLogger | llm_worker  : 43  | [LLM] 生成时间为：8.902169
+2026-04-11 14:23:52 | INFO     | appLogger | asr_worker  : 18  | [ASR] 获取问题所需时间：52
+2026-04-11 14:23:52 | INFO     | appLogger | asr_worker  : 23  | [ASR] 用户问题：现在看他还有什么表现形式 (sid=4)
+2026-04-11 14:23:52 | INFO     | appLogger | llm_worker  : 16  | [LLM] 开始生成 sid=4
+2026-04-11 14:24:01 | INFO     | appLogger | llm_service : 63  | sentence: 皮影戏作为黄河非遗的活化石，如今在传承中融入了现代艺术元素。
+2026-04-11 14:24:01 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 皮影戏作为黄河非遗的活化石，如今在传承中融入了现代艺术元素。 (sid=4)
+2026-04-11 14:24:01 | INFO     | appLogger | llm_service : 63  | sentence: 例如，部分表演结合了灯光投影、多媒体技术，或在不同地区发展出地域特色演绎方式。
+2026-04-11 14:24:01 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 例如，部分表演结合了灯光投影、多媒体技术，或在不同地区发展出地域特色演绎方式。 (sid=4)
+2026-04-11 14:24:02 | INFO     | appLogger | llm_service : 63  | sentence: 其核心技艺仍以竹制/皮制影人和灯光投影为基础，但表演内容和形式不断拓展，如融入现代叙事、跨界合作等，延续着黄河文化的生命力。
+2026-04-11 14:24:02 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 其核心技艺仍以竹制/皮制影人和灯光投影为基础，但表演内容和形式不断拓展，如融入现代叙事、跨界合作等，延续着黄河文化的生命力。 (sid=4)
+2026-04-11 14:24:02 | INFO     | appLogger | llm_worker  : 43  | [LLM] 生成时间为：9.528583
+2026-04-11 14:29:04 | INFO     | appLogger | asr_worker  : 18  | [ASR] 获取问题所需时间：311
+2026-04-11 14:29:04 | INFO     | appLogger | asr_worker  : 23  | [ASR] 用户问题：听说下方和柳叶还有哪些非理项目 (sid=5)
+2026-04-11 14:29:04 | INFO     | appLogger | llm_worker  : 16  | [LLM] 开始生成 sid=5
+2026-04-11 14:29:18 | INFO     | appLogger | llm_service : 63  | sentence: 黄河非遗项目繁多，如麦秆剪贴（国家级）、传统糖塑（省级）、柿树栽培及柿饼制作技艺（省级）、桃核雕花工艺（省级）、兴平土布扎染技艺（省级）、咸阳琥珀糖（省级）等，均以传统技艺展现黄河文明脉搏。
+2026-04-11 14:29:18 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 黄河非遗项目繁多，如麦秆剪贴（国家级）、传统糖塑（省级）、柿树栽培及柿饼制作技艺（省级）、桃核雕花工艺（省级）、兴平土布扎染技艺（省级）、咸阳琥珀糖（省级）等，均以传统技艺展现黄河文明脉搏。 (sid=5)
+2026-04-11 14:29:18 | INFO     | appLogger | llm_service : 63  | sentence: 其中，麦秆剪贴以竹制材料创作，融合艺术与工艺；传统糖塑则通过吹制糖人展现民俗文化。
+2026-04-11 14:29:18 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 其中，麦秆剪贴以竹制材料创作，融合艺术与工艺；传统糖塑则通过吹制糖人展现民俗文化。 (sid=5)
+2026-04-11 14:29:19 | INFO     | appLogger | llm_service : 63  | sentence: 若需更具体介绍，可进一步说明项目名称或地域。
+2026-04-11 14:29:19 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 若需更具体介绍，可进一步说明项目名称或地域。 (sid=5)
+2026-04-11 14:29:19 | INFO     | appLogger | llm_worker  : 43  | [LLM] 生成时间为：14.293479
+2026-04-11 14:30:44 | INFO     | appLogger | asr_worker  : 18  | [ASR] 获取问题所需时间：99
+2026-04-11 14:30:44 | INFO     | appLogger | asr_worker  : 23  | [ASR] 用户问题：给我介绍一下传统唐素 (sid=6)
+2026-04-11 14:30:44 | INFO     | appLogger | llm_worker  : 16  | [LLM] 开始生成 sid=6
+2026-04-11 14:30:52 | INFO     | appLogger | llm_service : 63  | sentence: 黄河非遗项目中并无“传统唐素”这一名称，但可参考以下非遗技艺展现黄河文明脉搏：  
+1.
+2026-04-11 14:30:52 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 黄河非遗项目中并无“传统唐素”这一名称，但可参考以下非遗技艺展现黄河文明脉搏：  
+1. (sid=6)
+2026-04-11 14:30:53 | INFO     | appLogger | llm_service : 63  | sentence: **麦秆剪贴**：以竹制材料创作，融合艺术与工艺，体现黄河沿岸的民间艺术智慧。
+2026-04-11 14:30:53 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: **麦秆剪贴**：以竹制材料创作，融合艺术与工艺，体现黄河沿岸的民间艺术智慧。 (sid=6)
+2026-04-11 14:30:53 | INFO     | appLogger | llm_service : 63  | sentence: 2.
+2026-04-11 14:30:53 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 2. (sid=6)
+2026-04-11 14:30:53 | INFO     | appLogger | llm_service : 63  | sentence: **传统糖塑[吹糖人]**：通过吹制糖人展现民俗文化，传承千年非遗技艺。
+2026-04-11 14:30:53 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: **传统糖塑[吹糖人]**：通过吹制糖人展现民俗文化，传承千年非遗技艺。 (sid=6)
+2026-04-11 14:30:54 | INFO     | appLogger | llm_service : 63  | sentence: 3.
+2026-04-11 14:30:54 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 3. (sid=6)
+2026-04-11 14:30:54 | INFO     | appLogger | llm_service : 63  | sentence: **龙骨水车营造技艺**：以传统工具雕刻水车，展现黄河流域的农耕文明与工匠精神。
+2026-04-11 14:30:54 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: **龙骨水车营造技艺**：以传统工具雕刻水车，展现黄河流域的农耕文明与工匠精神。 (sid=6)
+2026-04-11 14:30:54 | INFO     | appLogger | llm_service : 63  | sentence: 若需具体介绍其他非遗项目，可进一步说明名称或地域。
+2026-04-11 14:30:54 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 若需具体介绍其他非遗项目，可进一步说明名称或地域。 (sid=6)
+2026-04-11 14:30:54 | INFO     | appLogger | llm_worker  : 43  | [LLM] 生成时间为：10.280179
+2026-04-11 14:32:38 | INFO     | appLogger | asr_worker  : 18  | [ASR] 获取问题所需时间：113
+2026-04-11 14:32:38 | INFO     | appLogger | asr_worker  : 23  | [ASR] 用户问题：给我介绍一下吹唐人 (sid=7)
+2026-04-11 14:32:38 | INFO     | appLogger | llm_worker  : 16  | [LLM] 开始生成 sid=7
+2026-04-11 14:32:49 | INFO     | appLogger | llm_service : 63  | sentence: 吹糖人是黄河非遗中重要的传统技艺，以竹制材料创作，通过吹制糖人展现民俗文化，传承千年非遗技艺。
+2026-04-11 14:32:49 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 吹糖人是黄河非遗中重要的传统技艺，以竹制材料创作，通过吹制糖人展现民俗文化，传承千年非遗技艺。 (sid=7)
+2026-04-11 14:32:49 | INFO     | appLogger | llm_service : 63  | sentence: 其技艺融合了糖塑工艺与手工技艺，体现了黄河沿岸的民间艺术智慧。
+2026-04-11 14:32:49 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 其技艺融合了糖塑工艺与手工技艺，体现了黄河沿岸的民间艺术智慧。 (sid=7)
+2026-04-11 14:32:50 | INFO     | appLogger | llm_service : 63  | sentence: 作为省级非遗项目，它以传统方式制作糖人，展现黄河文明的民俗记忆。
+2026-04-11 14:32:50 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 作为省级非遗项目，它以传统方式制作糖人，展现黄河文明的民俗记忆。 (sid=7)
+2026-04-11 14:32:50 | INFO     | appLogger | llm_service : 63  | sentence: 若需更具体介绍，可进一步说明项目名称或地域。
+2026-04-11 14:32:50 | INFO     | appLogger | dispatcher  : 67  | [UI] -> Unity: 若需更具体介绍，可进一步说明项目名称或地域。 (sid=7)
+2026-04-11 14:32:50 | INFO     | appLogger | llm_worker  : 43  | [LLM] 生成时间为：12.135701
