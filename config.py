@@ -63,32 +63,5 @@ JSONL_PATH = "data/heritage_source.jsonl"
 
 AUDIO_PATH = "./audio/my_audio.wav"
 
-# 讯飞语音识别API配置列表
-# 每个配置项包含APPID、APIKey和APISecret
-XF_API_CONFIGS = [
-    {
-        "APPID": "29348254",
-        "APIKey": "af5cf07e99f12fe610967aedfdf2d74d",
-        "APISecret": "NWE4NzE3ODU5M2Y0OTdmZDBjNjk1YzE5"
-    },
-    {
-        "APPID": "2f730ad3",
-        "APIKey": "5d6076cdb8adfd96dc8ae481f07ce682",
-        "APISecret": "Yjk1NjQzYjU4ZDczN2U1MjNjMDFlMmNm"
-    },
-    # 备用API配置1
-    {
-        "APPID": "3941158",
-        "APIKey": "6a8b89a798df21ba598b0c225da49484",
-        "APISecret": "M2M5YTFlNmRlYTZhMWRiM2YwZTBmNDRh"
-    },
-    # 备用API配置2
-    {
-        "APPID": " 2ddf381b",
-        "APIKey": "ac150afaf51742aa2daf2e0b5612ae4b",
-        "APISecret": "OTYyMDU4NDA5NGZlN2QyMzFlNGRiOTBi"
-    }
-]
-
 # logging.config.fileConfig('logger.ini')
 # logger = logging.getLogger('appLogger')
