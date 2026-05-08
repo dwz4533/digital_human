@@ -16,7 +16,7 @@ from volcenginesdkarkruntime import Ark
 
 # 全局初始化客户端
 client = Ark(
-    api_key='2ccedc30-724a-41e6-a25c-2659a376a8ad',
+    api_key='',
     timeout=1800,
     base_url="https://ark.cn-beijing.volces.com/api/v3"
 )
