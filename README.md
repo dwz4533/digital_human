@@ -11,5 +11,5 @@ conda activate your_conda_name
 pip install requirements.txt
 
 # run the code
-python main.py
+start.exe
 ```
