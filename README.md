@@ -3,7 +3,7 @@
 fast beginning:
 ```
 # download the code from Github
-git clone 
+git clone https://github.com/dwz4533/digital_human.git
 
 # create you conda env
 conda create -n your_conda_name python==3.11.0
