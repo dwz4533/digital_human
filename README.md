@@ -1,4 +1,4 @@
-## ⭐⭐⭐It's a digital human system, which is based on the rag, LLMs, 3D and stuff like these techniques, for the field of intangible cultural heritage.
+## ⭐⭐⭐Our project is a digital human system, which is based on the rag, LLMs, 3D and stuff like these techniques, for the field of intangible cultural heritage.
 ---
 fast beginning:
 ```
